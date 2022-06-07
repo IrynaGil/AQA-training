@@ -1,0 +1,9 @@
+# hide files with the extension .db
+*.db
+
+# hide files with the extension .log
+*.log
+
+# ignore entire contents of directory in the repository matching that name – including all of its files and subdirectories
+target/ 
+bin/
